@@ -4,10 +4,10 @@
   "version": "2.0.0",
   "main": "gruntfile.js",
   "scripts": {
-      "setup": "npm install && bower install && gem install sass"
+    "setup": "npm install && bower install && gem install sass"
   },
-   "devDependencies": {
-	"grunt": ">=1.0.1",
+  "devDependencies": {
+    "grunt": ">=1.0.1",
     "grunt-cache-breaker": ">=2.0.1",
     "grunt-common-html2js": ">=0.3.5",
     "grunt-concurrent": ">=2.3.0",
@@ -23,8 +23,8 @@
     "grunt-shell-spawn": ">=0.3.10"
   },
   "keywords": [
-	"spike template",
-	"spike starter",
+    "spike template",
+    "spike starter",
     "spike framework",
     "spike javascript",
     "spike js",
